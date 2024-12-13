@@ -5,7 +5,8 @@ module.exports = {
     owners: ["740947753135243354", "767726828311543820"], //Bot Onwer ID
     maintenance: false,
     mongourl:
-      "", //https://mongodb.com/cloud/atlas/register
+      "mongodb+srv://arjunn:premiumop123@cluster0.dpw1dmi.mongodb.net/?retryWrites=true&w=majority
+      ", //https://mongodb.com/cloud/atlas/register
     invite:
       "", //Link Invite Bot
     bot_add_description:
